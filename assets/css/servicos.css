@@ -1,0 +1,12 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+.service-title {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Raleway", sans-serif;
+  color: #0563bb;
+  margin-bottom: 10px;
+}

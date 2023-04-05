@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.liipeandre.com.br/</loc>
+  <lastmod>2022-04-01T22:02:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/sobre/</loc>
+  <lastmod>2022-04-01T22:04:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/</loc>
+  <lastmod>2022-04-01T22:04:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/o-que-e-virtualizacao.html</loc>
+  <lastmod>2022-04-01T22:04:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/o-que-e-arquitetura-de-software.html</loc>
+  <lastmod>2022-04-01T22:04:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/tutorial-flask-desenvolvendo-models-e-conexao-com-banco-dados.html</loc>
+  <lastmod>2022-04-01T22:04:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/tutorial-flask-desenvolvendo-templates-e-views.html</loc>
+  <lastmod>2022-04-01T22:04:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/tutorial-flask-criando-um-novo-projeto.html</loc>
+  <lastmod>2022-04-01T22:04:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.liipeandre.com.br/blog/posts/o-que-e-engenharia-de-software.html</loc>
+  <lastmod>2022-04-01T22:04:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

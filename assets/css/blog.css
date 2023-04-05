@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+.blog-post-title {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Poppins", sans-serif;
+  color: #0563bb;
+  margin-bottom: 10px;
+}
+
+.list-group-item{
+  text-align: center;
+}
+
+.category-title {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: "Poppins", sans-serif;
+  color: #0563bb;
+  margin-bottom: 10px;
+}

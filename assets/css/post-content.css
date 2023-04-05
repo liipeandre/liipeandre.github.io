@@ -1,0 +1,44 @@
+code {
+  color: #0e84b5;
+}
+
+div .section-content p {
+  text-indent: 40px;
+  font-weight: lighter;
+  text-align: justify;
+}
+
+
+div .section-content ol, div .section-content ul{
+  text-align: justify;
+  font-weight: lighter;
+  margin-top: 10px;
+}
+
+div .section-content li p {
+  font-weight: lighter;
+  margin-left: -30px;
+  text-align: justify;
+}
+
+div .section-content figure{
+  text-align: center;
+  margin-left: 3%;
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+.center {
+  text-align: center;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}

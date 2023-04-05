@@ -1,0 +1,19 @@
+#hero h1{
+  font-size: 36px;
+}
+
+#hero h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #45505b;
+}
+
+#hero p:first-of-type{
+  margin-top: 20px;
+}
+
+#hero p {
+  font-size: 18px;
+}
