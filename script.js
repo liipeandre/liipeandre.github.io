@@ -4,7 +4,7 @@ const projetosPinnados = [
 	'ann-performance-analysis',
 	'coryn-web-scraper',
 	'pacman',
-	'fifteen',
+	'flickr-upload',
 	'badge-generator',
 	'portproxy'
 ]; 
