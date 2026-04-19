@@ -5,7 +5,8 @@ const projetosPinnados = [
 	'coryn-web-scraper',
 	'pacman',
 	'fifteen',
-	'inventory-control-system-flask'
+	'badge-generator',
+	'portproxy'
 ]; 
 
 // Variáveis globais para controlar a paginação
